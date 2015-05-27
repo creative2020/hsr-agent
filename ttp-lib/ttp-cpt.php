@@ -42,7 +42,6 @@ function cpt_agent_init() {
 		'capability_type'    => 'post',
 		'has_archive'        => true,
 		'hierarchical'       => false,
-		'menu_position'      => 63,
         'menu_icon'          => '/wp-content/plugins/hsr-agent/images/hsr-admin-icon-sm.png',             
 		'supports'           => array( 'title', 'editor', 'thumbnail', )
 	);
